@@ -94,11 +94,11 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Contact us</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    <a href="mailto:jcorrego@gmail.com">Email: jcorrego@gmail.com</a>
-
-                                </p>
-                                <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
+                                    <a href="mailto:jcorrego@gmail.com">Email: jcorrego@gmail.com</a><br>
                                     <a href="https://www.linkedin.com/in/jcorrego/">LinkedIn: https://www.linkedin.com/in/jcorrego/</a>
+                                </p>
+                                <p class="mt-4 text-gray-500 dark:text-gray-700 text-sm leading-relaxed">
+                                    JCO Services LLC,<br> 30 N Gould St Ste N Sheridan, WY 82801
                                 </p>
                             </div>
                         </div>
